@@ -15,7 +15,7 @@ function Home() {
         <div className="home__row">
           <Product
             id="12321341"
-            title="The Lean Startup: How Constant Innovation Creates Radically Successfull Businesses Paperback"
+            title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
             price={11.96}
             rating={5}
             image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
@@ -28,6 +28,7 @@ function Home() {
             image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
           />
         </div>
+
         <div className="home__row">
           <Product
             id="4903850"
@@ -51,6 +52,7 @@ function Home() {
             image="https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg"
           />
         </div>
+
         <div className="home__row">
           <Product
             id="90829332"
